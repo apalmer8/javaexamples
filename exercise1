@@ -15,14 +15,14 @@ public class exercise1 {
 //Strings are alphanumerical words that inlcude nearly any character/
 //Replace this String with your name and favorite food!
 
- String name = "TheLegend27";
- String favFood = "waffles";
+ String name = "MemeOverlord";
+ String favFood = "Nyan cats";
 
 
 //Intergers are whole numbers that are either positive or negative, or 0.
 //Replace this integer with your age!
 
- int age = 46;
+ int age = 69;
 
 //Doubles are numbers that have decimals and are positive or negative
 //Replace this Double with the gas prices in Chicago
@@ -54,7 +54,7 @@ if(age == 69){
 } else if(age > 19){
 	System.out.println("Oof");
 }
-System.out.println("The current gas prices is " + gasPrice + "!");
+System.out.println("The current gas price is " + gasPrice + "!");
 System.out.println("My initials are " + firstInitial + ". " + lastInitial + ". ");
 
 
@@ -66,4 +66,3 @@ if(yesOrNo == true){
 }
 	}
 }
-
